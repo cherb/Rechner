@@ -1,8 +1,13 @@
 package rechner.cherb.de;
 
+/*
+ * Controlinstanz of the calculator
+ * 
+ */
+
 public class Steuerung {
 	
-	 //Zahlen zum Rechnen	
+	 //Values for calculation
 	float zahl1;
 	float zahl2 = 0;
 	float ergebnis = 0;

@@ -1,5 +1,11 @@
 package rechner.cherb.de;
 
+/*
+ * Graphical user interface 
+ * Numbers entered in the system will be transfered to the calculation unit "Steuerung"
+ * 
+ */
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
