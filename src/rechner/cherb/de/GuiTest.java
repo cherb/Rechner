@@ -9,6 +9,7 @@ public class GuiTest {
 
 	@Before
 	public void setUp() throws Exception {
+		System.out.println("Test beginnt");
 	}
 
 	@Test
