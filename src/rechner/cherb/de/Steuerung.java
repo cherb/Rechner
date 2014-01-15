@@ -109,7 +109,7 @@ public class Steuerung {
 		
 		
 		
-	// Zurücksetzen der tempzahl
+	// Zuruecksetzen der tempzahl
 		
 		public void eraseTemp(){
 			tempzahl = 0;

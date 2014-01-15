@@ -1,6 +1,6 @@
 /**
- * Taschenrechner für Softwaretechnik Demo
- * 
+ * Taschenrechner fuer Softwaretechnik Demo
+ * @version: 0815
  * @Author: Christian Herb
  * 
  */
@@ -18,7 +18,8 @@ public class Taschenrechner {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		new Gui();
+		Gui gui1 =  new Gui();
+		gui1.aufbau();
 	}
 
 }
